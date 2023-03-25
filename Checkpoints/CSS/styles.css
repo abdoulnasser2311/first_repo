@@ -1,0 +1,23 @@
+a{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+.centrer{
+    text-align: center;
+ }
+ body{
+     font-family: roboto;
+     background-color:lightcyan;
+ }
+ .Ajustement{
+             text-align: center;
+ }
+ .box-orange {
+    border: 5px solid blue;
+ }
+ .margegauche{
+        padding-left: 40px;
+        padding-bottom: 20px;   
+ }
